@@ -9,8 +9,18 @@ h2 {
   margin-left: 15px; }
 
 div.col-md-4 img {
+  object-fit: cover;
+  padding-bottom: 5%;
   height: 200px;
-  width: 100%;
-  padding-bottom: 5%; }
+  width: 100%; }
+
+.border-right {
+  border-right: 2px solid black; }
+
+.carou {
+  height: 300px;
+  object-fit: cover;
+  margin: 0 auto;
+  background-color: black; }
 
 /*# sourceMappingURL=style.css.map */
