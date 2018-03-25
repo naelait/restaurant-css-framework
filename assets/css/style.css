@@ -1,7 +1,3 @@
-nav > * {
-  background-color: #e9ecf0;
-  display: flex; }
-
 .badge-pill {
   float: right; }
 
@@ -18,9 +14,21 @@ div.col-md-4 img {
   border-right: 2px solid black; }
 
 .carou {
-  height: 300px;
+  height: 450px;
   object-fit: cover;
   margin: 0 auto;
   background-color: black; }
 
+.green {
+  color: green;
+}
+
+.black {
+  color: black;
+}
+
+.maps {
+  width: -webkit-fill-available;
+  height: 450px;
+}
 /*# sourceMappingURL=style.css.map */
